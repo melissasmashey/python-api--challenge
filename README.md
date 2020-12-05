@@ -12,7 +12,8 @@ WeatherPy Folder
 
 		2)4 scatter plot png images
 
-VacationPy Folder	
+VacationPy Folder
+
 	1)VacationPy Jupyter Notebook script
 
 	2)2 Heatmap png images: 1 without markers and one with markers
